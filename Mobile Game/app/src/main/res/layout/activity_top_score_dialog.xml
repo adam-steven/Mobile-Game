@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:maxLength="62" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:digits="QWERTYUIOPASDFGHJKLZXCVBNM"
+        android:hint="@string/name_Text"
+        android:inputType="textCapCharacters"
+        android:maxLength="6"
+        android:autofillHints="@string/name_Text"></EditText>
+
+</RelativeLayout>

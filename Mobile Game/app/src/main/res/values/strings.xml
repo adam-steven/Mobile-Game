@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CMP309SpaceGame</string>
+    <string name="blank"></string>
+    <string name="game_title">CMP309 SPACE GAME</string>
+    <string name="start_button">START</string>
+    <string name="leaderboard_button">LEADERBOARD</string>
+    <string name="settings_button">SETTINGS</string>
+    <string name="back_button">BACK</string>
+    <string name="loading_Text">Loading...</string>
+    <string name="rank_Text">Rank</string>
+    <string name="username_Text">Username</string>
+    <string name="score_Text">Score</string>
+    <string name="volume_Text">Volume</string>
+    <string name="motionControls_Text">Motion Controls </string>
+    <string name="motionSensitivity_Text">Motion Sensitivity</string>
+    <string name="notification_Text">Notification </string>
+    <string name="resetSettings_button">Reset Settings</string>
+    <string name="saveQuit_button">Save &amp; Quit</string>
+    <string name="on_Text">ON</string>
+    <string name="off_Text">OFF</string>
+    <string name="name_Text">ENTER USERNAME</string>
+</resources>
